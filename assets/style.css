@@ -239,9 +239,35 @@ form textarea {
 	font-size: 1.2em;
 	margin-bottom: 20px;
 }
+
 input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
+}
+
+.meta-description {
+    margin-left: 12px;
+    margin-bottom: 60px;
+    position: relative;
+    z-index: 1
+}
+
+.container_footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center
+}
+
+.footer_logo img {
+    max-width: 100%;
+    width: 100% !important;
+    height: auto !important
+}
+
+.footer_logo p {
+    margin: 10px 0
 }
 
 @media all and (max-width: 1180px) {
