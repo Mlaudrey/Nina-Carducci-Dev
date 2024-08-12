@@ -1,3 +1,7 @@
+
+Objectifs : optimiser d'un site Internet après audit Lighthouse et corrections de bugs
+https://mlaudrey.github.io/Nina-Carducci-Dev/
+
 // Bugs corrigés
 
 -> La navigation dans la modale de la galerie entre images précédente et suivante ne fonctionne pas.[resolu]
