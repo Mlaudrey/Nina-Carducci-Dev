@@ -1,11 +1,11 @@
 {
     "@context": "http://schema.org",
-    "@type": ["LocalBusiness", "Service"],
+    "@type": "LocalBusiness",
     "name": "Nina Carducci",
     "description": "Nina Carducci, photographe professionnelle à Bordeaux",
 
 
-    "image": ".assets/images/slider/Projet4/Nina-Carducci-Dev/assets/images/slider/nicholas-green-nPz8akkUmDI-unsplash1.webp",
+   "image": "/assets/images/slider/Projet4/Nina-Carducci-Dev/assets/images/slider/nicholas-green-nPz8akkUmDI-unsplash1.webp",
     "url": "https://nina-carducci.fr/",
     "telephone": "0556677889",
     "address": {
